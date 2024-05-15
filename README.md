@@ -1,6 +1,6 @@
 ### Développeur d'applications d'entreprise Java Swing ## Infographe 👋
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souletigre&theme=github
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souletigre&theme=default) 
 
 
 <!--
