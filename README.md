@@ -1,8 +1,8 @@
 ### Développeur d'applications d'entreprise Java Swing ## Infographe 👋
 ### ANNEES	ETABLISSEMENTS
- !2022 – 2024	Université Nongo Conakry (U.N.C) - Master en Réseaux et Sécurité Informatique.
- !2013 – 2016 	Institut Supérieur de formation à Distance (ISFAD) - Licence en Développement Communautaire.
- ! 2012 – 2015 	Université de Labé - Licence en Méthodes informatiques Appliquées à la Gestion des Entreprises (MIAGE)
+  '2022 – 2024	Université Nongo Conakry (U.N.C) - Master en Réseaux et Sécurité Informatique.'
+  '2013 – 2016 	Institut Supérieur de formation à Distance (ISFAD) - Licence en Développement Communautaire.'
+  2012 – 2015 	Université de Labé - Licence en Méthodes informatiques Appliquées à la Gestion des Entreprises (MIAGE)
 ### EXPERIENCES PROFESSIONNELLES  
   Du 01/03/2020 à nos jours : Directeur Général de l’entreprise SALMATEL (Formation en Informatiques & Gestion, Commerce et Prestation de service, N° Entreprise : RCCM/GN.TCC.2020.A.02830) ;
   Du 01/08/2017 au 31/10/2019 : Comptable à l'entreprise de développement de solution informatique et de conseil en NTIC « Giga Technologie » ;
