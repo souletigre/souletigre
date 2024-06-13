@@ -8,7 +8,7 @@
   Du 01/08/2017 au 31/10/2019 : Comptable à l'entreprise de développement de solution informatique et de conseil en NTIC « Giga Technologie » ;
   Du 01/07/2016 au 20/08/2017 : Assistant Comptable à l'entreprise de développement de solution informatique et de conseil en NTIC « Giga Technologie » ;
   Du 01/01/2016 au 31/10/2019 : Formateur en Comptabilité Générale, Sage Compta 100, Sage Gestion Commerciale, sage Immobilisation, Sage GRH, Ms Offices, Adobe Photoshop, Adobe Premier pro.
-# 2015-2024 : Enseignant chercheur aux universités
+## 2015-2024 : Enseignant chercheur aux universités
   2019-2020 : UMI (Université Mercure Internationale de Conakry), cours enseigné : Infographie ;
   UGANC (Université Gamal Abdel Nasser de Conakry), cours enseigné : Infographie, Sage 100 comptabilité, Sage Gestion commerciale ;
   2016 – 2019 : UNC (Université Nongo de Conakry), cours enseigné : Infographie ;
