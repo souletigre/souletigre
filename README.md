@@ -34,14 +34,7 @@
 ### LANGUES  
   - Langues Nationales : Poular ; 
   - Langues internationales : Français, Anglais. 
-### LOISIRS
-  - Football, lecture, découverte, Internet.    
-### QUALITES 
-  - Loyal au travaille, Courageux 
-  - Honnête et endurant.
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souletigre&theme=default) 
-
 
 ### Langage 
 
