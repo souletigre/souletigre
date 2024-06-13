@@ -1,13 +1,13 @@
 ### Développeur d'applications d'entreprise Java Swing ## Infographe 👋
 ## ANNEES	      ETABLISSEMENTS	OPTIONS	DIPLOMES
-  2022 – 2024	  Université Nongo Conakry (U.N.C) - Master en Réseaux et Sécurité Informatique.
+  2022 – 2024	Université Nongo Conakry (U.N.C) - Master en Réseaux et Sécurité Informatique.
   2013 – 2016 	Institut Supérieur de formation à Distance (ISFAD) - Licence en Développement Communautaire.
   2012 – 2015 	Université de Labé - Licence en Méthodes informatiques Appliquées à la Gestion des Entreprises (MIAGE)
 ## EXPERIENCES PROFESSIONNELLES  
   Du 01/03/2020 à nos jours : Directeur Général de l’entreprise SALMATEL (Formation en Informatiques & Gestion, Commerce et Prestation de service, N° Entreprise : RCCM/GN.TCC.2020.A.02830) ;
   Du 01/08/2017 au 31/10/2019 : Comptable à l'entreprise de développement de solution informatique et de conseil en NTIC « Giga Technologie » ;
-	Du 01/07/2016 au 20/08/2017 : Assistant Comptable à l'entreprise de développement de solution informatique et de conseil en NTIC « Giga Technologie » ; 
-	Du 01/01/2016 au 31/10/2019 : Formateur en Comptabilité Générale, Sage Compta 100, Sage Gestion Commerciale, sage Immobilisation, Sage GRH, Ms Offices, Adobe Photoshop, Adobe Premier pro.
+  Du 01/07/2016 au 20/08/2017 : Assistant Comptable à l'entreprise de développement de solution informatique et de conseil en NTIC « Giga Technologie » ;
+  Du 01/01/2016 au 31/10/2019 : Formateur en Comptabilité Générale, Sage Compta 100, Sage Gestion Commerciale, sage Immobilisation, Sage GRH, Ms Offices, Adobe Photoshop, Adobe Premier pro.
 # 2015-2024 : Enseignant chercheur aux universités
 	2019-2020 : UMI (Université Mercure Internationale de Conakry), cours enseigné : Infographie ;
 	UGANC (Université Gamal Abdel Nasser de Conakry), cours enseigné : Infographie, Sage 100 comptabilité, Sage Gestion commerciale ;
@@ -23,35 +23,31 @@
 	Du 02 au 06 Avril 2013 : Communication et mobilisation, modèle de dynamisme de toute structure/ Association des Elèves et Etudiants Musulmans de Guinée (AEEMG) ;
 	Du 31 Juillet 2015 au 08 Aout 2015 : Formation en multimédias numérique dans les logiciels suivants : ACDsee Pro et Photoshop ; 
 ## MES COMPETENCES :  
-	Réseaux informatiques : Réseau de Base (mise en place réseau local), Configuration et Administration Windows serveur 2019; 
-	Economie et Gestion : Comptabilité Général, mathématique financière, Management des organisations. 
-	Mathématique : Proba-statistique, statistiques descriptifs, statistique mathématique. 
-  Logiciel de gestion : Sage comptabilité, sage immobilisation, sage gestion commerciale, sage paie et GRH ; 
-	Système d’exploitation : Windows ; 
-	Logiciel Microsoft office : Word, Excel, Access, Publisher, Outlook, Project, Visio ;
-	Maintenance informatique : logiciel ; 
-	Logiciel de traitement : Adobe Photoshop, Adobe première pro, Adobe InDesign, Adobe Illustrator, Adobe flash, Adobe after affect, Adobe audition, Wavepad, Vegas, Filmora ; 
-	Web: HTML/CSS, MySQL, Bootstrap, laravel ;
-  Application desktop: Java;
+   Réseaux informatiques : Réseau de Base (mise en place réseau local), Configuration et Administration Windows serveur 2019; 
+   Economie et Gestion : Comptabilité Général, mathématique financière, Management des organisations. 
+   Mathématique : Proba-statistique, statistiques descriptifs, statistique mathématique. 
+   Logiciel de gestion : Sage comptabilité, sage immobilisation, sage gestion commerciale, sage paie et GRH ; 
+   Système d’exploitation : Windows ; 
+   Logiciel Microsoft office : Word, Excel, Access, Publisher, Outlook, Project, Visio ;
+   Maintenance informatique : logiciel ; 
+   Logiciel de traitement : Adobe Photoshop, Adobe première pro, Adobe InDesign, Adobe Illustrator, Adobe flash, Adobe after affect, Adobe audition, Wavepad, Vegas, Filmora ; 
+   Web: HTML/CSS, MySQL, Bootstrap, laravel ;
+   Application desktop: Java;
 ## MES REALISATIONS :
-  Application Gestion de stock et comptabilité ; Application gestion des badges ; Application Gestion école; déploiement d'application sous docker;
+   Application Gestion de stock et comptabilité ; Application gestion des badges ; Application Gestion école; déploiement d'application sous docker;
 ## LANGUES  
-  Langues Nationales : Poular ; 
-  Langues internationales : Français, Anglais. 
+   Langues Nationales : Poular ; 
+   Langues internationales : Français, Anglais. 
 ## LOISIRS
-  Football, lecture, découverte, Internet.    
+   Football, lecture, découverte, Internet.    
 ## QUALITES 
-  Loyal au travaille, Courageux 
-  Honnête et endurant.
-
-
-
-
+   Loyal au travaille, Courageux 
+   Honnête et endurant.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souletigre&theme=default) 
 
 
-### test
+### Langage 
 
 <p align="left"> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/276006?s=200&v=4" alt="WordPress" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4" alt="mariadb" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp; 
